@@ -2,7 +2,10 @@
 
 The code Launch correctly using the launch files provided in the capstone repo.Smoothly follow waypoints in the simulator. Different target. Speed can be set in ros/src/waypoint_loader/launch/waypoint_loader. The vehcie stops when traffic light is red.
 
+[//]: # (References)
 [video1]: ./imgs/traffic_sign.gif
+
+![][video1]
 
 ### Installation
 
